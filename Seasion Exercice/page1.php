@@ -1,5 +1,9 @@
 <?php
-//start a session;
+//session start
 @session_start();
-$username =$_SESSION["username"];
-    echo "Username".$username;
+//set session variable
+$message = $_SESSION["message"];
+echo "Message: ".$message;
+
+//$username =$_SESSION["username"];
+   // echo "Username".$username;

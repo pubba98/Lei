@@ -1,8 +1,18 @@
 <?php
-@session_start();
-$_SESSION["USERNAME"] = "Lei";
-$_SESSION["Password"] ="song";
-$_SESSION["Color"] ="Red"
+
+//$_SESSION["USERNAME"] = "Lei";
+//$_SESSION["Password"] ="song";
+//$_SESSION["Color"] ="Red"
+//$_SESSION["Address"]="139 Carrington Road";
+if (isset($_POST["message"])) {
+    echo "<p>I have a post message in this page </p>";
+    //session start
+    @session_start();
+    //set session variable
+    $_SESSION["message"]=$_POST["message"];
+}else{
+    echo "<p>Please post a message to me</p>";
+}
  ?>
 <html>
 <head>
