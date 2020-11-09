@@ -10,7 +10,7 @@
 <div id="header">
 <?php include "menu.php";?>,
 Login,
-<?php include "headerimage.php";?>
+<?php include "page2.php";?>
 </div>
 
 </body>
