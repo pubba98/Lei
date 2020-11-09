@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53dcccb1-db6b-4476-9dd4-d4ef1232a92a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Seasion Exercice/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seasion Exercice/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Seasion Exercice/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seasion Exercice/page1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Seasion Exercice/page1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seasion Exercice/page2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Seasion Exercice/page2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seasion Exercice/page3.php" beforeDir="false" afterPath="$PROJECT_DIR$/Seasion Exercice/page3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seasion Exercice/page4.php" beforeDir="false" afterPath="$PROJECT_DIR$/Seasion Exercice/page4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seasion Exercice/page5.php" beforeDir="false" afterPath="$PROJECT_DIR$/Seasion Exercice/page5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +36,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="composer.json" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -49,14 +46,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jkw7CsbMLFR64yTvq4AIhnhFy8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -70,7 +71,7 @@
       <updated>1604361228333</updated>
       <workItem from="1604361229440" duration="639000" />
       <workItem from="1604634682145" duration="225000" />
-      <workItem from="1604865463251" duration="7531000" />
+      <workItem from="1604865463251" duration="8824000" />
     </task>
     <servers />
   </component>
@@ -101,9 +102,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="576" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604361327178" />
-    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1604871084737">
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1604951986515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1604871084737" />
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1604951986515" />
   </component>
 </project>
