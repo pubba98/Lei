@@ -6,7 +6,7 @@
 
 </head>
 <body>
-<div>id="header">
+<div id="header">
 <?php include "menu.php";?>,
 Login,pictures
 </div>
