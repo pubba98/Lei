@@ -20,39 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53dcccb1-db6b-4476-9dd4-d4ef1232a92a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/include/staticweb/birdFood.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/catFood.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/css/itemPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/css/puppy_at_home_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/dogFood.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/fishFood.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/bird_food.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/cat_food.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/dog_food.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/fish_food.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/bird_food_four.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/bird_food_one.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/bird_food_three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/bird_food_two.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/cat_food_four.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/cat_food_one.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/cat_food_three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/cat_food_two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/dog_food_four.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/dog_food_one.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/dog_food_three.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/dog_food_two.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/fish_food_four.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/fish_food_one.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/fish_food_three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/foods/fish_food_two.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/images/puppy_at_home_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/staticweb/js/addItem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/page3.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/page3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/page4.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/page4.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +76,7 @@
       <updated>1604361228333</updated>
       <workItem from="1604361229440" duration="639000" />
       <workItem from="1604634682145" duration="225000" />
-      <workItem from="1604865463251" duration="18868000" />
+      <workItem from="1604865463251" duration="19819000" />
     </task>
     <servers />
   </component>
